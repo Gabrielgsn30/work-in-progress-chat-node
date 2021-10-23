@@ -9,7 +9,16 @@ Projeto em desenvolvimento: [respositorio] (https://github.com/Gabrielgsn30/work
 
 ## Capitulo 1
 
+Explicando o que é DevOps
+
+[slide1](https://docs.google.com/presentation/d/1TQ0lWC_LS-C45_yM1VevVFxpZMCrUI54HwsruHdYS5E/edit?usp=sharing)
+
 ## Capitulo 2
+
+Proposta do projeto e instalações necessárias
+
+[slide2](https://docs.google.com/presentation/d/16fsnx5i7rG8i26nLHO2evghnJ-aFk9gJtogDRlT3Fds/edit?usp=sharing)
+
 
 ## Capitulo 3
 
