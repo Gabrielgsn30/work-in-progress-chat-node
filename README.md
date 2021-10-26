@@ -7,6 +7,8 @@ Projeto já desenvolvido e pronto: [repositorio] (https://github.com/Gabrielgsn3
 
 Projeto em desenvolvimento: [respositorio] (https://github.com/Gabrielgsn30/work-in-progress-chat-node)
 
+projeto utilizando como base o [site] (https://betterprogramming.pub/simple-chat-application-in-node-js-using-express-mongoose-and-socket-io-ee62d94f5804)
+
 ## Capitulo 1
 
 Explicando o que é DevOps
@@ -22,7 +24,7 @@ Proposta do projeto e instalações necessárias
 Executando projeto localmente:
 **Para isso deve ter instalado pelo menos Nodejs em sua máquina localmente e entrado em cloud.mongodb e criado a database com a colection message e alterado a url da database para a sua em server.js*
 
-Após fazer o donload do projeto para executar o mesmo é bem simples, apenas dois passos:
+Após fazer o download do projeto para executar o mesmo é bem simples, apenas dois passos:
 
 ```python
 npm install -g nodemon
