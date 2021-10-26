@@ -63,6 +63,19 @@ nodemon ./server.js
 
 Docker e Dockerfiles
 
+[silde3](https://docs.google.com/presentation/d/1gDbvFr3d_7xmKSn9Vz6Jk4COM68NX7FWHvctzi9II1I/edit?usp=sharing)
+
+Para dar build do dockerfile e gerar a imagem do projeto
+
+```python
+docker build -t nascimentogabriel/chatnode:v1 .
+```
+
+Para executar um container com a imagem gerada pelo build
+
+```python
+docker run -d --name chatnode -p 3000:3000 nascimentogabriel/chatnode:v1
+```
 
 ## Capitulo 4
 
