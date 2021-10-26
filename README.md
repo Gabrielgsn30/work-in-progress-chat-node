@@ -25,6 +25,7 @@ Configurando MongoDB:
 
 Deverá entrar no link do mongodb citado em ferramentas e criar uma conta após criar a conta e selecionar o cluster free sua conta deverá estar parecido com a imagem abaixo:
 
+![alt text](https://github.com/Gabrielgsn30/work-in-progress-chat-node/blob/main/img/collection.png)
 
 Após isso entrar em Network Access e criar a regra:
 0.0.0.0/0 dessa maneira poderá acessar seu banco de dados de qualquer lugar.
@@ -33,6 +34,15 @@ Após isso entrar em Network Access e criar a regra:
 Deverá entrar também em Database Access e criar um usuario e senha.
 
 Apos isso deverá criar uma database e em colection colocar o nome e a colection utilizada, conforme imagem abaixo.
+
+![alt text](https://github.com/Gabrielgsn30/work-in-progress-chat-node/blob/main/img/painelmongodb.png)
+
+Apos isso voltar para a tela principal e clicar em Connect, selecionar a opção conect your application, dessa forma será passada uma string de conexao, essa string deverá ser preenchida em seu server.js
+
+linha 17 
+```python
+var dbUrl = 'mongodb+srv://gabriel:<password>@cluster0.cqidw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+```
 
 Executando projeto localmente:
 **Para isso deve ter instalado pelo menos Nodejs em sua máquina localmente e entrado em cloud.mongodb e criado a database com a colection message e alterado a url da database para a sua em server.js*
