@@ -21,6 +21,19 @@ Proposta do projeto e instalações necessárias
 
 [slide2](https://docs.google.com/presentation/d/16fsnx5i7rG8i26nLHO2evghnJ-aFk9gJtogDRlT3Fds/edit?usp=sharing)
 
+Configurando MongoDB:
+
+Deverá entrar no link do mongodb citado em ferramentas e criar uma conta após criar a conta e selecionar o cluster free sua conta deverá estar parecido com a imagem abaixo:
+
+
+Após isso entrar em Network Access e criar a regra:
+0.0.0.0/0 dessa maneira poderá acessar seu banco de dados de qualquer lugar.
+
+
+Deverá entrar também em Database Access e criar um usuario e senha.
+
+Apos isso deverá criar uma database e em colection colocar o nome e a colection utilizada, conforme imagem abaixo.
+
 Executando projeto localmente:
 **Para isso deve ter instalado pelo menos Nodejs em sua máquina localmente e entrado em cloud.mongodb e criado a database com a colection message e alterado a url da database para a sua em server.js*
 
