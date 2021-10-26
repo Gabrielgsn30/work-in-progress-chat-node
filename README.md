@@ -9,13 +9,13 @@ Projeto em desenvolvimento: [respositorio] (https://github.com/Gabrielgsn30/work
 
 projeto utilizando como base o [site] (https://betterprogramming.pub/simple-chat-application-in-node-js-using-express-mongoose-and-socket-io-ee62d94f5804)
 
-## Capitulo 1
+## Capitulo 1 DevOps
 
 Explicando o que é DevOps
 
 [slide1](https://docs.google.com/presentation/d/1TQ0lWC_LS-C45_yM1VevVFxpZMCrUI54HwsruHdYS5E/edit?usp=sharing)
 
-## Capitulo 2
+## Capitulo 2 Proposta Projeto
 
 Proposta do projeto e instalações necessárias
 
@@ -59,7 +59,10 @@ Após isso rodar o seguinte comando para executar o projeto:
 nodemon ./server.js
 ```
 
-## Capitulo 3
+## Capitulo 3 Docker e Dockerfiles
+
+Docker e Dockerfiles
+
 
 ## Capitulo 4
 
