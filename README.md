@@ -19,6 +19,20 @@ Proposta do projeto e instalações necessárias
 
 [slide2](https://docs.google.com/presentation/d/16fsnx5i7rG8i26nLHO2evghnJ-aFk9gJtogDRlT3Fds/edit?usp=sharing)
 
+Executando projeto localmente:
+**Para isso deve ter instalado pelo menos Nodejs em sua máquina localmente e entrado em cloud.mongodb e criado a database com a colection message e alterado a url da database para a sua em server.js*
+
+Após fazer o donload do projeto para executar o mesmo é bem simples, apenas dois passos:
+
+```python
+npm install -g nodemon
+```
+
+Após isso rodar o seguinte comando para executar o projeto:
+
+```python
+nodemon ./server.js
+```
 
 ## Capitulo 3
 
