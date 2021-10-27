@@ -77,6 +77,9 @@ Para executar um container com a imagem gerada pelo build
 docker run -d --name chatnode -p 3000:3000 nascimentogabriel/chatnode:v1
 ```
 
+Demonstrado como é o funcionamento do Docker desde da fase do dockerfile até a construção da imagem e a execução do container.
+
+
 ## Capitulo 4
 
 ## Capitulo 5
