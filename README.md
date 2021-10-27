@@ -82,4 +82,13 @@ Demonstrado como é o funcionamento do Docker desde da fase do dockerfile até a
 
 ## Capitulo 4
 
+Demonstrando o ambiente AWS
+
+O que é o ECR(repositorio de imagens docker para AWS)
+
+O que é o ECS e como utiliza-lo
+Serviços do ECS(task-definition,services)
+
+Criando um usuário, uma ECS, subindo a imagem para ECR e executando essa imagem na ECS
+
 ## Capitulo 5
